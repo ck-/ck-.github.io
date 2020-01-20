@@ -1,5 +1,4 @@
-![Image of Shea](https://cdn.discordapp.com/attachments/334867950794178562/668636742655541248/cool1.jpg)
-
+![Image of Shea](https://cdn.discordapp.com/attachments/334867950794178562/668637068083068960/cool1.jpg)
 # Welcome to my GitHub page.
 
   
