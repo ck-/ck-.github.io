@@ -1,3 +1,5 @@
+![Image of Shea](https://cdn.discordapp.com/attachments/334867950794178562/668635551854886932/cool1.jpg)
+
 # Welcome to my GitHub page.
 
   
