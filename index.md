@@ -1,4 +1,7 @@
-##### Welcome to my GitHub page.
-### What you can find on my site.
+# Welcome to my GitHub page.
+
+  
+  What ou can find on my site:
+  
 *Homework from various classes
 *Other projects i want to work on.
