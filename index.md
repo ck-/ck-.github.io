@@ -3,5 +3,5 @@
   
   What ou can find on my site:
   
-*Homework from various classes
-*Other projects i want to work on.
+* [Homework](https://github.com/ck-/CS112HW) from various classes
+* [Other projects](https://github.com/ck-/CS112_Florance_Andrew) i want to work on.
